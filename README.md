@@ -10,6 +10,8 @@
 
 ### :computer: [ecc-embedded](https://drive.google.com/file/d/14edGjD6mw1PcMFoGK_K2k3KCFA_u6wXK/view?usp=sharing)
 
+### :computer: [ecc-tools](tools/ecc-tools.zip)
+
 > To install the `Proteus` and the `ecc-embedded`, Right-click and choose `Run as administrator`
 
 ---
