@@ -8,9 +8,9 @@
 
 ### :computer: [VSCode](https://code.visualstudio.com/)
 
-### :computer: [ecc-embedded-2.0.1](ecc-embedded-2.0.1.zip)
+### :computer: [ecc-embedded-2.0.1](tools/ecc-embedded-2.0.1.zip)
 
-### :computer: [ecc-lab-tools-2.0.1](ecc-lab-tools-2.0.1.zip)
+### :computer: [ecc-lab-tools-2.0.1](tools/ecc-lab-tools-2.0.1.zip)
 
 > To install the `Proteus` and the `ecc-embedded`, Right-click and choose `Run as administrator`
 
